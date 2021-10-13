@@ -1,2 +1,3 @@
-a = int(input("Enter a no. "))
-print(a % 2)
+a=(1,)
+
+print(a)
